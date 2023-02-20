@@ -2,7 +2,7 @@
 
 ## About me
 
-<p align="left">I'm a second-year software engineering student right now. I have a strong interest in programming-related subjects, thus I want to work in the field and gain knowledge about it. Usually, I spend my free time developing and improving apps, websites, or other programs that interest me.</p>
+<p align="left">I'm a second-year software engineering student right now. I have a great deal of interest in programming-related subjects. Usually, I spend my free time developing and improving apps, websites, or other programs that interest me.</p>
 
 ## I code with
 
