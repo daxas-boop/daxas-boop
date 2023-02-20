@@ -1,9 +1,4 @@
-# Hi 👋! My name is Matias and I'm a Software Engeneering student from Argentina.
-
-<div align="center">
-  <img height="312" src="https://im4.ezgif.com/tmp/ezgif-4-3b12826c8c.gif"  />
-</div>
-
+<h3 align="center">Hi 👋! My name is Matias and I'm a Software Engeneering student from Argentina.</h3>
 
 ## About me
 
