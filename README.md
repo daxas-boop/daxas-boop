@@ -1,8 +1,8 @@
-<h3 align="center">Hi 👋! My name is Matias and I'm a Software Engeneering student from Argentina.</h3>
+<h3 align="center">Hi 👋! I'm Matias, a Software Engineering student from Argentina.</h3>
 
 ## About me
 
-<p align="left">I'm a second-year software engineering student right now. I have a great deal of interest in programming-related subjects. Usually, I spend my free time developing and improving apps, websites, or other programs that interest me.</p>
+<p align="left"> For the past 4 years, I've been actively programming with a focus on Typescript, React, and Node.js. My time is often spent developing and improving applications and websites, blending my academic studies with real-world coding projects. </p>
 
 ## I code with
 
